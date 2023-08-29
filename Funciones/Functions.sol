@@ -5,7 +5,6 @@ pragma experimental ABIEncoderV2;
 contract funciones{
 
     address[] public direcciones;
-
     function nuevaDireccion() public{
         direcciones.push(msg.sender);
     }
@@ -15,4 +14,14 @@ contract funciones{
         myHash = keccak256(abi.encodePacked(_dato));
     }
 
+    function par_impar(int _a) public pure returns(bool){
+        return _a%2==0;
+    }
+
+    function division(uint _a, uint _b) public pure returns(uint,uint,bool){
+        uint cociente = _a / _b;
+        uint resto = _a % _b;
+        bool multiplo = (_a % _b == 0);
+        return (cociente,resto,multiplo);
+    }
 }

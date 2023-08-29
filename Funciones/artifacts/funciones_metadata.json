@@ -27,6 +27,40 @@
 			{
 				"inputs": [
 					{
+						"internalType": "uint256",
+						"name": "_a",
+						"type": "uint256"
+					},
+					{
+						"internalType": "uint256",
+						"name": "_b",
+						"type": "uint256"
+					}
+				],
+				"name": "division",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					},
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					},
+					{
+						"internalType": "bool",
+						"name": "",
+						"type": "bool"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
 						"internalType": "string",
 						"name": "_dato",
 						"type": "string"
@@ -55,6 +89,25 @@
 				"name": "nuevaDireccion",
 				"outputs": [],
 				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "int256",
+						"name": "_a",
+						"type": "int256"
+					}
+				],
+				"name": "par_impar",
+				"outputs": [
+					{
+						"internalType": "bool",
+						"name": "",
+						"type": "bool"
+					}
+				],
+				"stateMutability": "pure",
 				"type": "function"
 			}
 		],
@@ -86,11 +139,11 @@
 	},
 	"sources": {
 		"Funciones/Functions.sol": {
-			"keccak256": "0x1df2cf054f2f29aeca6f1fadd7128c737fd8e4c88f3920ac96cff19b74971158",
+			"keccak256": "0xde6f42836efc04a15db1efdb541072e822901339128e79e5ff2532e0fb61c50b",
 			"license": "UNLICENSED",
 			"urls": [
-				"bzz-raw://0d16713293da899809eb7d6b8df8b699d0a5064d2ed7c575bc07d44a8041e3c3",
-				"dweb:/ipfs/QmQQNuBfwgshSRhqAis8G3UQf2viijqfg15UUWdwYsfAyS"
+				"bzz-raw://914f91d9050b9853f069fb859489085d44b9466be5b3fa66129709efd4c77fa8",
+				"dweb:/ipfs/QmYhv4PvsjPXziay1MwmtpGvhtKS1EzMBJVVr8SnK9Lajx"
 			]
 		}
 	},
