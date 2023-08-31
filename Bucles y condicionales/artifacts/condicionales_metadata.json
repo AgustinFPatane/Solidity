@@ -1,0 +1,65 @@
+{
+	"compiler": {
+		"version": "0.6.12+commit.27d51765"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "bool",
+						"name": "_value",
+						"type": "bool"
+					}
+				],
+				"name": "truefalse",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Bucles y condicionales/bucles_y_cond.sol": "condicionales"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Bucles y condicionales/bucles_y_cond.sol": {
+			"keccak256": "0x1d55595d539c88e5e7416d4d1e3e55e0ecb1f385d97c8138d103be4922c82b40",
+			"license": "UNLICENSED",
+			"urls": [
+				"bzz-raw://d5b831325314b5fd4b626efac17ce8fe95fda77b425a6b2539f43d236c0bd2b7",
+				"dweb:/ipfs/QmSGGHSboCV9EB2HNAWpYJn2CoGuXj6djScdc7ELzMKsHB"
+			]
+		}
+	},
+	"version": 1
+}
