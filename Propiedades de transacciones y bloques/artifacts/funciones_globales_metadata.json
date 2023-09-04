@@ -86,11 +86,11 @@
 	},
 	"sources": {
 		"Propiedades de transacciones y bloques/funciones_globales.sol": {
-			"keccak256": "0x7ed76b7372850c79252ed7dd28d5b7f5e2486d71ff2e0652e1a581b421d5a7d1",
+			"keccak256": "0xb2167e3989a9f856417161f8a092eb563d45c8c096be53f97e52ccd3942d96c3",
 			"license": "UNLICENSED",
 			"urls": [
-				"bzz-raw://e1fa61c9843fdfd121625b81b5f3765855f071656ab789d1dd1d2ab61bd7bd04",
-				"dweb:/ipfs/QmctF6nGj67S7ZsG1iw3fTnEB1jXjJUsKi9m21kHD3V8ap"
+				"bzz-raw://d3a54cc15581e72bd9eee5edca587b33dc2e9a1e641db075405eca6be3d3f775",
+				"dweb:/ipfs/QmWycZGYc2hWCQ5qPAuARrAFifNSmhDviCXqsj7w6He3ue"
 			]
 		}
 	},

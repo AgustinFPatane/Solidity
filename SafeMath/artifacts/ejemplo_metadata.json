@@ -1,0 +1,102 @@
+{
+	"compiler": {
+		"version": "0.6.12+commit.27d51765"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "_a",
+						"type": "uint256"
+					},
+					{
+						"internalType": "uint256",
+						"name": "_b",
+						"type": "uint256"
+					}
+				],
+				"name": "resta_segura",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "_a",
+						"type": "uint256"
+					},
+					{
+						"internalType": "uint256",
+						"name": "_b",
+						"type": "uint256"
+					}
+				],
+				"name": "suma_segura",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"SafeMath/Ejemplo-safemath.sol": "ejemplo"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"SafeMath/Ejemplo-safemath.sol": {
+			"keccak256": "0x9ee823989cfd06e9087f151360d79b3f54a2e379a4adeae52fa26d92a386526b",
+			"license": "UNLICENCED",
+			"urls": [
+				"bzz-raw://e2976c1ff63bc63036e6e273f0721ad72c58605e02ef2e11c3acc7369c26d481",
+				"dweb:/ipfs/QmZVtJuh4gos53kgW2ZMB61ZnTpy4Pf5HzJK2fUXrLN4a2"
+			]
+		},
+		"SafeMath/SafeMath.sol": {
+			"keccak256": "0x14f7bc344c24517d9e14ebb8071e1cb63075b95203876f13c480d5b5c02f39f4",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://2d2eccaeae93039976ec6de037a3eccecb187a02e137a517e003120e28394940",
+				"dweb:/ipfs/QmaU8PiMvddzenJPjz7gYgCSzEvxfbDjikkneXE8nHcvKo"
+			]
+		}
+	},
+	"version": 1
+}

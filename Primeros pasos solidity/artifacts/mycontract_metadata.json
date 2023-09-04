@@ -47,11 +47,11 @@
 			]
 		},
 		"Primeros pasos solidity/Primer contrato.sol": {
-			"keccak256": "0x315fba1094d27a46940e7d02ea53bf990c7cf3e5c9d5328df0da9d545af15eb5",
+			"keccak256": "0x157bc7a1ce2e2a4f432435b0e52c920c21551e4fd30037b3480fd05c07f2f08d",
 			"license": "UNLICENSED",
 			"urls": [
-				"bzz-raw://ef41566ece111d695df3a80adce6b1a00ddef4b6d9447365ca1b58badd38209c",
-				"dweb:/ipfs/Qmd5dyz4tBwa8VTyc4k2B1SmYeKFVA5jk61w7AMoZHMx8X"
+				"bzz-raw://1180fb447c6bd3ea8dae838138fca01f0157922d65514ffab5b4e6c0d557b0e7",
+				"dweb:/ipfs/QmUg2hufk57RTZuMnWZ8PWexvmNV2Nh6XpJMWuijGNdrrw"
 			]
 		},
 		"Primeros pasos solidity/SafeMath.sol": {
