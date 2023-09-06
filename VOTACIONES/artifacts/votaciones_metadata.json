@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"VOTACIONES/votaciones.sol": "votaciones"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"VOTACIONES/votaciones.sol": {
+			"keccak256": "0x1659c5c43fbe54c25d88b3cc19b7c4eb45eff9a6544cc1cd94e6739ffa854133",
+			"license": "UNLICENSED",
+			"urls": [
+				"bzz-raw://59b686facf201f0ec09fd9772efbe7de8bf2d71609372309952e6b0b9c74cc84",
+				"dweb:/ipfs/QmUYcmVsZVwRr9nQPGmmCLHbJsikx139YKPgu3Lp6KJ3i9"
+			]
+		}
+	},
+	"version": 1
+}
