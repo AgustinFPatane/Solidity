@@ -217,11 +217,11 @@
 	},
 	"sources": {
 		"CUSTOM_TOKEN/ERC20.sol": {
-			"keccak256": "0x4e4e364cfe9cc27514b0a6fb88e90c897f0f545f3ee5291d966ef3169dbb2c11",
+			"keccak256": "0x5f3fc30c5dec8bb40a1de1a8103e0fce9ce83834cbb0aa134a928ad2819c9f08",
 			"license": "UNLICENSED",
 			"urls": [
-				"bzz-raw://7eef284f7d22a5369dbf8d568c1b127acf48f8555975f8a8478c5ab25d3dbcf6",
-				"dweb:/ipfs/QmZvTRGDUuAA4DKiKq6Sn4sb2KWAGQXx8p8FRA3HcN62eU"
+				"bzz-raw://06334a91454c39a89290e2441065b77e7cad3df87617059003cf46f126b18169",
+				"dweb:/ipfs/QmZBBnAJzaRRmRKwuFnVtevEcj6Rex9YuTSC5MRTnUfBVC"
 			]
 		},
 		"CUSTOM_TOKEN/SafeMath.sol": {

@@ -1,0 +1,30 @@
+Direccion del contrato desplegado 
+en la testnet de binance            -->  0x40E9733A973A73fAa2f7a415e8650D90F1372824
+
+--------------------------- Binance testnet -----------------------------------
+Nombre de la red:	        	Smart Chain - Testnet
+Direccion URL del RPC:	    	https://data-seed-prebsc-1-s1.binance.org:8545/
+ID de la cadena:	        	97
+Simbolo de la cadena:		    tBNB
+URL del explorador de bloques:	https://testnet.bscscan.com
+
+--------------------------- Binance Mainnet -----------------------------------
+Nombre de la red:		        Smart Chain - Testnet
+Direccion URL del RPC:	    	https://data-seed-prebsc-1-s1.binance.org:8545/
+ID de la cadena:	        	97
+Simbolo de la cadena:		    BNB
+URL del explorador de bloques:	https://testnet.bscscan.com
+
+--------------------------- Polygon testnet -----------------------------------
+Nombre de la red:		        Mumbai Testnet
+Direccion URL del RPC:	    	https://rpc-mumbai.maticvigil.com
+ID de la cadena:		        80001
+Simbolo de la cadena:	    	MATIC
+URL del explorador de bloques:	https://mumbai.polygonscan.com
+
+--------------------------- Polygon mainnet -----------------------------------
+Nombre de la red:	        	Polygon
+Direccion URL del RPC:	    	https://polygon-rpc.com
+ID de la cadena:	        	137
+Simbolo de la cadena:	    	MATIC
+URL del explorador de bloques:	https://polygonscan.com/
